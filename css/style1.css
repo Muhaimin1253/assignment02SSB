@@ -1,0 +1,82 @@
+body
+{
+	background: url(../images/background.jpg) no-repeat;
+	background-size: cover;
+}
+.container
+{
+	width: 25%;
+	margin: 100px auto;
+	background-color: white;
+	border-radius: 10px;
+	text-align: center;
+}
+.container img
+{
+	width: 50%;
+	margin-top: 20px;
+}
+.container h3
+{
+	text-align: center;
+	color: blue;
+}
+.username-section
+{
+	width: 90%;
+	border: 2px solid dodgerblue;
+	border-radius: 3px;
+	margin-bottom: 10px;
+	height: 30px;
+}
+.password-section
+{
+	width: 90%;
+	border: 2px solid dodgerblue;
+	border-radius: 3px;
+	margin-bottom: 10px;
+	height: 30px;
+	
+}
+.login-section
+{
+	width: 92%;
+	border: 2px solid dodgerblue;
+	border-radius: 3px;
+	margin-bottom: 10px;
+	height: 30px;
+	color: white;
+	background-color: dodgerblue;
+	font-size: 16px;
+}
+.login-section:hover
+{
+	background: blue;
+	color:white;
+	border:2px solid blue;
+}
+.another-section
+{
+	height: 30px;
+	padding-bottom: 10px;
+}
+.forgot-password
+{
+	float:left;
+	width: 50%;
+	
+}
+.forgot-password a
+{
+	text-decoration: none;
+}
+.register-now
+{
+	float:left;
+	width: 50%;
+		
+}
+.register-now a
+{
+	text-decoration: none;	
+}
